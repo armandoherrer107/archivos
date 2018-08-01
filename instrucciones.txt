@@ -1,0 +1,6 @@
+1-Crear base de datos "inventario"
+2-Ejecutar el script inventario.sql
+3-Ejecutar el script patch_inventario.sql
+4-Ejecutar el script respaldoDatosBueno.sql
+
+NOTA: EN LA IMAGEN CON EL DIAGRMA DE LA BASE DE DATOS, EN LA TABLA correlativo_detalle FALTA EL CAMPO numero_serie(EN LA BASE DE DATOS SI ESTA).
